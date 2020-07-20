@@ -2,7 +2,7 @@
 using namespace std;
 class shop
 {
-    int itemId[100];
+    int itemId[100]; //array varible
     int itemPrice[100];
     int counter;
 
