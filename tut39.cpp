@@ -21,6 +21,8 @@ int main(){
     cout<<"We are inside our main function"<<endl;
     cout<<"Creating first object n1"<<endl;
     num n1;
+    //block ka code tabhi tak chalega jab wo wo code chalk rha h code ke exit hote hi uska execution bhi khatam
+    
     {
         cout<<"Entering this block"<<endl;
         cout<<"Creating two more objects"<<endl;
