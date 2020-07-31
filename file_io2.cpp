@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     char ch;
-    ifstream fin("marks.dat",ios::in);
+    ifstream fin("marks.dat",ios::in);  //for reading we created ifstream class 
    
    // fin.open("marks.dat",ios::in);
     if(!fin){
