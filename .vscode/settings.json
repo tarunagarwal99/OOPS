@@ -2,6 +2,7 @@
     "files.associations": {
         "OOPS_9TH.C": "cpp",
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "OOPS_11T.C": "cpp"
     }
 }
