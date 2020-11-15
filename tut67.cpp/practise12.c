@@ -13,7 +13,7 @@ int main(){
     fp=fopen("one.txt","r");
     while((ch=getc(fp))!=EOF){
         //printf("%c",ch);
-        putc(ch,fp);
+        putc(ch,fp);   //here we can use any one of them. 
     }
      return 0;
 }

@@ -1,8 +1,10 @@
 {
     "files.associations": {
+        "*.html": "html",
         "OOPS_9TH.C": "cpp",
         "iostream": "cpp",
         "ostream": "cpp",
-        "OOPS_11T.C": "cpp"
+        "OOPS_11T.C": "cpp",
+        "OOPS_1ST.C": "cpp"
     }
 }
