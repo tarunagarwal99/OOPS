@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    vector<int> arr(1,0);
+    vector<int> arr(1,0);    //by the use of vector we can resize it in runtime
     cout<<arr.size()<<endl;
     for (int i = 1; i < 9; i++)
     {
