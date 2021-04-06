@@ -14,7 +14,7 @@ int main() {
     l2.push_back(5);
     l2.push_back(6);
     l2.push_back(7);
-    l2.insert(l2.begin(),l1.begin(),l1.end());
+    l2.insert(l2.end(),l1.begin(),l1.end());
 
 
     // we cannnot access element of list like this we have to declare and iterator.
