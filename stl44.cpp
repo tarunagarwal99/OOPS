@@ -32,9 +32,9 @@ int main() {
         q1.push(i);
     }
 printQ(q1);
-printQ(q1);
-q1=removeMultipleOfThree(q1);
 
+q1=removeMultipleOfThree(q1);
+printQ(q1);
     
     
     return 0;
