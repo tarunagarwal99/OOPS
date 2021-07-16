@@ -5,6 +5,13 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+class solution{
+    public:
+    void rearrange(int arr[],int n){
+
+    }
+};
+
 int main() {
     int t;
     cin>>t;
